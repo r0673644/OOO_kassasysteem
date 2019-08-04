@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ExcelPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../ExcelPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jxl-2.6.12(1).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../ExcelPlugin.jar!/" />
+    </SOURCES>
+  </library>
+</component>
